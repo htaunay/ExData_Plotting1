@@ -1,0 +1,8 @@
+# vim
+.*.swp
+
+# MacOS
+.DS_Store
+
+# R
+.Rhistory
